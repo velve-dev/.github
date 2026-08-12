@@ -1,6 +1,6 @@
 <div align="center">
 
-![Velve](https://raw.githubusercontent.com/velve-dev/velve-dev/main/velve-mark-accent-transparent-8192.png)
+<img src="https://raw.githubusercontent.com/velve-dev/velve-dev/main/velve-mark-accent-transparent-8192.png" width="150" alt="Velve">
 
 <br>
 
